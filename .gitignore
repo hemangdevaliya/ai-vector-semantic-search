@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+.env.*
+
+# Allow example environment files
+!.env.example
+
+# React
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model cache
+.cache/
